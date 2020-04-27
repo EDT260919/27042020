@@ -15,6 +15,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>1.0.0</vendor>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <logo/>
